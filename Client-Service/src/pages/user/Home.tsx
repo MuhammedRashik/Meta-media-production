@@ -24,10 +24,11 @@ const Home = () => {
  
   return (
     <>
+   
 
 
         <AsideComponent sidebarOpen={sidebarOpen}/>
-        {console.log('hi')
+        {console.log('helooo')
         }
         {/* {isModalOpen && (
             <>
